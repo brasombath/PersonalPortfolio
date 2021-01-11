@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "tako"
+  "defaultProject": "tako",
+  "cli": {
+    "analytics": "3171e7a0-cd91-45b4-9e95-d9bccc9215fc"
+  }
 }
